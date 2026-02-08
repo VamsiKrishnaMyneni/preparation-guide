@@ -1,0 +1,28 @@
+1. what is unit Testing
+2. testing types (unit vs integration vs e2e)
+3. Anotamy of test
+4. RTL vs Jest
+5. DOM testing library
+6. react-scripts in "react-scripts test" or "react-scripts build"
+7. Why test, describe, it are not imported in test file
+8. what are matcher functions
+9. mount v/s render
+10. what is screen in RTL
+11. sync v/s async tests
+12. when to write async tests
+13. what is assertion in testing
+14. what is watch mode
+15. What is Test driven devlopement
+16. what is 3 rules of TDD
+17. How to group tests (describe)
+18. What is RTL
+19. Test file naming convetions (.test/.spec/__tests__ -folder)
+20. Types of code coverage
+21. it() vs test()
+22. xit vs fit()
+23. testing-library/jestdom
+24. queries vs assertion vs matcher functions
+25. what is the priority of queries
+26. options in queries (name, level, selected, hidden, checked, pressed)
+27. it, describe, expect are provided by? (provided by CRA - create react app)
+28. In how Many ways we can query elements 
