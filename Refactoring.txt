@@ -1,0 +1,5 @@
+1. keep component dumb
+2. import jungle
+3. builder function
+4. global constants file
+5. custom hooks

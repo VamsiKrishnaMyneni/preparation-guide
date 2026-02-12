@@ -1,0 +1,4 @@
+1. create a npm like registry
+2. create a library 
+3. Theming 
+4. how to read from other git repo(shell scripting)

@@ -26,3 +26,5 @@
 26. options in queries (name, level, selected, hidden, checked, pressed)
 27. it, describe, expect are provided by? (provided by CRA - create react app)
 28. In how Many ways we can query elements 
+29. What Not to test in UI unit testing/React
+30. container v/s screen

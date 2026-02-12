@@ -1,3 +1,4 @@
 1. What is refresh Token
 2. what is Token rotation
-3. 
+3. serialization v/s deserialization and how do you do it.
+4. short pooling

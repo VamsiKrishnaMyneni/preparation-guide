@@ -1,0 +1,2 @@
+1. keep component dumb
+2. import jungle
